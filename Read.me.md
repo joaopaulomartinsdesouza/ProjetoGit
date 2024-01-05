@@ -1,0 +1,1 @@
+Olá! Esta pasta foi criada com o intuito de aprender sobre tecnologia da informação.
